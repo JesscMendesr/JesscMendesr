@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesscMendesr&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=e4e2e2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesscMendesr&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5
+)
