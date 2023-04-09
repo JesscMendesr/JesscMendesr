@@ -1,5 +1,6 @@
 <h1>Heey 👋<br>Eu sou a Jess. Seja bem-vindo ao meu GitHub!</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+cecilia+oliveira;I'm+20+years+old;I'm+from+Brazil;I+am+a+web+development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div top=500px>
      <img top="-100" align="right" alt="Jess-pic" height="200" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2023/04/08/download20230406194624.png" alt="download20230406194624.png" border="0">
