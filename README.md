@@ -5,8 +5,7 @@
 <br><br>
 
 
-<div top=500px>
-     <img top="-150" align="right" alt="Jess-pic" height="200" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2023/04/08/download20230406194624.png" alt="download20230406194624.png" border="0">
+<div align="center" top=500px>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesscMendesr&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5&include_all_commits=true&count_private=true"/>
      <br> <br>
 <a href="https://github.com/seu-usuário-aqui">
@@ -17,7 +16,7 @@
 <br><br>     
      
 <h2>💻 Programming languages:<h2>  
-<div  align="left" style="display: block"><br>
+<div  align="center" style="display: block"><br>
   <img align="center" alt="Jess-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jess-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +29,7 @@
 <br><br>
      
 <h2>📱 Contact:</h2>
-<div> 
+<div align="center"> 
   <a  width="200" href="https://instagram.com/spacew0man" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessicamend17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicamendesraulino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
