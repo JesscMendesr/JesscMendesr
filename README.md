@@ -2,12 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesscMendesr&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5&layout=compact$height=200px
 )
-<br>
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesscMendesr&theme=tokyonight&bg_color=00000000&border_color=539bf5&layout=compact&card_height=200px&card_width=460px  (approx.))](https://github.com/JesscMendesr/github-readme-stats)
 
 <div align="right">
     <img align="right" alt="Jess-pic" height="250" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2023/04/08/download20230406194624.png" alt="download20230406194624.png" border="0">
-  </div>
+  </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jess-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
