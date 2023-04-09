@@ -5,6 +5,10 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesscMendesr&theme=tokyonight&bg_color=00000000&border_color=539bf5&layout=compact&card_height=200px&card_width=460px  (approx.))](https://github.com/JesscMendesr/github-readme-stats)
 
+<div align="right">
+   <a href="https://www.linkedin.com/in/jessicamendesraulino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jess-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-Ts" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
