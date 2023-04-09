@@ -5,14 +5,14 @@
     <img align="right" alt="Jess-pic" height="250" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2023/04/08/download20230406194624.png" alt="download20230406194624.png" border="0">
   </p>
 
-<div width=500px align="center">
+<div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesscMendesr&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000&border_color=539bf5"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesscMendesr&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5&include_all_commits=true&count_private=true"/>
 </div>
 
 
-<div style="display: inline_block"><br>
+<div  width=500px align="center" style="display: block"><br>
   <img align="center" alt="Jess-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-Ts" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jess-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
