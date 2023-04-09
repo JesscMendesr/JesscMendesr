@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p height=250px align="right" position="absolute" top=-500px>
+<p height=250px align="right" position="absolute" top=-600px>
     <img align="right" alt="Jess-pic" height="250" style="border-radius:50px;" src="https://www.imagemhost.com.br/images/2023/04/08/download20230406194624.png" alt="download20230406194624.png" border="0">
   </p>
 
