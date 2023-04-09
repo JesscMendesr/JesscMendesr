@@ -28,8 +28,6 @@
   <img align="center" alt="Jess-spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
 
-##
-
 <br>     
 <div> 
   <a href="https://instagram.com/spacew0man" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
