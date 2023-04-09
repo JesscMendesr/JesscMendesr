@@ -14,8 +14,10 @@
    
 </div>
 
+<br><br>     
+     
 <h2>💻 Programming languages:<h2>    
-<br><br>
+
 <div  align="left" style="display: block"><br>
   <img align="center" alt="Jess-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,7 +30,7 @@
 
 ##
 
-<h2>💻 Programming languages:<h2>       
+<br>     
 <div> 
   <a href="https://instagram.com/spacew0man" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessicamend17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
