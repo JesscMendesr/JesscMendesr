@@ -14,7 +14,10 @@
    
 </div>
 
- ![Snake animation](https://github.com/JesscMendesr/JesscMendesr/blob/output/github-contribution-grid-snake.svg)    
+     
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JesscMendesr&bg_color=0d1117&color=ff0000&line=ffd500&point=e60000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)    
+     
+ 
      
 <br><br>
 <div  align="left" style="display: block"><br>
@@ -37,5 +40,6 @@
 </div>
 
 
-
+   
+ ![Snake animation](https://github.com/JesscMendesr/JesscMendesr/blob/output/github-contribution-grid-snake.svg)   
 
