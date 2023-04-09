@@ -15,8 +15,8 @@
 
 <br><br>     
      
-<h2 border="none" align="center">💻 Programming languages:<h2>  
-<div  align="center" style="display: block"><br>
+<h2 align="center">💻 Programming languages:<h2>  
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jess-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-Ts" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jess-HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
