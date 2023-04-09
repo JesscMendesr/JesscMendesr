@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesscMendesr&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5&include_all_commits=true&count_private=true"/>
      <br> <br>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesscMendesr&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000&border_color=539bf5&width=400"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesscMendesr&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000&border_color=539bf5&width=400"/>
    
 </div>
 
