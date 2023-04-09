@@ -11,7 +11,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesscMendesr&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<br><br>
 <div  align="center" style="display: block"><br>
   <img align="center" alt="Jess-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-Ts" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
