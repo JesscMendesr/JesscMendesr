@@ -3,7 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Jess+Mendes;I'm+24+years+old;I'm+from+Brazil;I+am+a+FullStack+Java+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesscmendesr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
