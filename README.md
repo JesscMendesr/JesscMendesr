@@ -6,10 +6,10 @@
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=jesscmendesr&theme=tokyonight&show_icons=true" />
+  <img width="300px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=jesscmendesr&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscmendesr&theme=tokyonight&layout=compact" />
+  <img width="300px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscmendesr&theme=tokyonight&layout=compact" />
 </a>
 
 
