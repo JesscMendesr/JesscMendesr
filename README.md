@@ -6,20 +6,12 @@
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesscmendesr&theme=tokyonight&show_icons=true" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=jesscmendesr&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscmendesr&theme=tokyonight&layout=compact" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscmendesr&theme=tokyonight&layout=compact" />
 </a>
 
-
-<!--<div align="center" top=500px>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesscMendesr&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=539bf5&include_all_commits=true&count_private=true"/>
-     <br> <br>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesscMendesr&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000&border_color=539bf5&width=400"/> -->
-   
-</div>
 
 <br><br>     
      
