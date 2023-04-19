@@ -9,7 +9,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jesscmendesr&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="100px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscmendesr&theme=tokyonight&layout=compact" />
+  <img height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesscmendesr&theme=tokyonight&layout=compact" />
 </a>
 
 
